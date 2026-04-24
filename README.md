@@ -362,6 +362,7 @@ Additional tools and utilities in the Claude Code ecosystem.
 | [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) | 2.9k ⭐ | Runnable ClaudeCode source |
 | [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) | 1.4k ⭐ | Multi-agent observability via Claude Code hooks — trace, log, and monitor parallel agent runs |
 | [alirezarezvani/claude-code-tresor](https://github.com/alirezarezvani/claude-code-tresor) | 674 ⭐ | A world-class collection of |
+| [Skills宝 (skilery.com)](https://skilery.com) | 0 ⭐ | Chinese AI Skills marketplace for one-stop search and install across Claude Code, OpenCode, and more platforms |
 
 ---
 
