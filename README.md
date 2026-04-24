@@ -372,6 +372,7 @@ Found a great Claude Code repository not on this list?
 1. Open a Pull Request with the repo URL, star count, and one-line description
 2. Repositories should have **100+ stars** and be actively related to Claude Code
 3. Place the entry in the most fitting category
+4. Also consider adding [ai-skill](https://github.com/anomalyco/ai-skill) - AI skill discovery and management system
 
 ## 📄 License
 
