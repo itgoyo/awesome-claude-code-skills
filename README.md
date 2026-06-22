@@ -382,3 +382,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ---
 
 *Data collected via GitHub search API, sorted by star count. Last updated: April 2026.*
+
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
