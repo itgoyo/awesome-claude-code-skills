@@ -326,6 +326,7 @@ Guides, tips, how-tos, and educational resources for Claude Code.
 
 ## 🌟 Specialized & Niche
 
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD: 3 work paths (Traditional/AI Native/AI Coding), FRR gate, interaction ledger.
 Domain-specific tools and niche integrations for Claude Code.
 
 | Repository | Stars | Description |
