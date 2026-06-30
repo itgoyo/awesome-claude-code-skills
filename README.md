@@ -114,7 +114,7 @@ Frameworks and harnesses that orchestrate Claude Code as an autonomous agent.
 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | 7.6k ⭐ | An Obsidian plugin that embeds |
 | [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) | 7k ⭐ | Manage multiple AI terminal agents like |
 | [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) | 5.9k ⭐ | 泄露源码 - 本地可运行版本（附带核心模块解析） |
-| [stravu/crystal](https://github.com/stravu/crystal) | 3k ⭐ | (Crystal is now Nimbalyst) Run multiple Codex and |
+| [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst) | 1k ⭐ | The open-source visual workspace for building with Codex, Claude Code, and more. Manage your agents, edit the work visually, and track tasks. |
 | [batrachianai/toad](https://github.com/batrachianai/toad) | 2.8k ⭐ | A unified interface for AI in your terminal. |
 | [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) | 2.8k ⭐ | My Ralph Wiggum setup, an autonomous bash script that runs |
 | [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 2.7k ⭐ | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration |
