@@ -1,11 +1,11 @@
 # ✨ Awesome Claude Code Skills
 
-> GitHub 上 Star 数量最多的 **200 个** Claude Code 生态项目精选列表 ——
+> GitHub 上 Star 数量最多的 **201 个** Claude Code 生态项目精选列表 ——
 > 涵盖官方工具、Agent 框架、技能插件、记忆系统、MCP 服务器、代理路由等各类资源。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![更新时间](https://img.shields.io/badge/更新-2026年4月-blue)
-![项目数量](https://img.shields.io/badge/项目数量-200-brightgreen)
+![项目数量](https://img.shields.io/badge/项目数量-201-brightgreen)
 ![累计 Star](https://img.shields.io/badge/累计%20Star-2.5M%2B-yellow)
 
 **语言切换 / Language:** &nbsp; **🇨🇳 中文** &nbsp;|&nbsp; [🇺🇸 English](README.md)
@@ -18,7 +18,7 @@
 - [📚 精选列表与资源合集](#精选列表与资源合集) (18)
 - [🤖 Agent 框架与运行时](#agent-框架与运行时) (17)
 - [🎭 编排与多智能体](#编排与多智能体) (18)
-- [🔌 技能与插件](#技能与插件) (32)
+- [🔌 技能与插件](#技能与插件) (33)
 - [🧠 记忆与上下文](#记忆与上下文) (8)
 - [⚙️ 工作流与配置](#工作流与配置) (6)
 - [🔧 MCP 工具](#mcp-工具) (7)
@@ -34,7 +34,7 @@
 
 ## 📊 概览
 
-以下 200 个仓库代表了 Claude Code 开源生态的精华。
+以下 201 个仓库代表了 Claude Code 开源生态的精华。
 排名依据数据采集时（2026 年 4 月）的 GitHub Star 数量。
 榜首项目拥有 **153k Star**，全榜合计超过 **2.5M** Star。
 
@@ -44,7 +44,7 @@
 | 📚 精选列表与资源合集 | 18 |
 | 🤖 Agent 框架与运行时 | 17 |
 | 🎭 编排与多智能体 | 18 |
-| 🔌 技能与插件 | 32 |
+| 🔌 技能与插件 | 33 |
 | 🧠 记忆与上下文 | 8 |
 | ⚙️ 工作流与配置 | 6 |
 | 🔧 MCP 工具 | 7 |
@@ -180,6 +180,7 @@ Claude Code 官方仓库与 Anthropic 维护的核心资源。
 | [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) | 688 ⭐ | Skill Factory — A powerful open-source toolkit for building and deploying production-ready |
 | [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) | 378 ⭐ | BMAD Method skills for |
 | [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) | 301 ⭐ | AEO Automation Framework for |
+| [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills) | 252 ⭐ | 面向 Claude Code、Codex 等 AI 编程助手的 HarmonyOS NEXT 开发者技能包，包含离线 ArkTS/ArkUI/API 参考、DevEco/HDC 工作流、模拟器诊断和 smoke-test 模板。 |
 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 214 ⭐ | Universal LaTeX document skill for |
 | [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin) | 19 ⭐ | Code plugin that provides a conversational, adaptive, and agentic |
 

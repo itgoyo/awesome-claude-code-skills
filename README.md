@@ -1,11 +1,11 @@
 # ✨ Awesome Claude Code Skills
 
-> A curated list of the **Top 200** GitHub repositories by ⭐ star count in the Claude Code ecosystem —
+> A curated list of the **Top 201** GitHub repositories by ⭐ star count in the Claude Code ecosystem —
 > covering official tools, agent frameworks, skills, memory systems, MCP servers, proxies, and more.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Last Updated](https://img.shields.io/badge/Updated-April%202026-blue)
-![Repos](https://img.shields.io/badge/Repos-200-brightgreen)
+![Repos](https://img.shields.io/badge/Repos-201-brightgreen)
 ![Stars](https://img.shields.io/badge/Combined%20Stars-2.5M%2B-yellow)
 
 **Language / 语言切换:** &nbsp; **🇺🇸 English** &nbsp;|&nbsp; [🇨🇳 中文](README_CN.md)
@@ -14,11 +14,11 @@
 
 ## 📋 Table of Contents
 
-- [🏛️ Official & Core](#official--core) (3)
+- [🏛️ Official & Core](#official--core) (5)
 - [📚 Awesome Lists & Collections](#awesome-lists--collections) (11)
 - [🤖 Agent Frameworks & Harnesses](#agent-frameworks--harnesses) (10)
 - [🎭 Orchestration & Multi-agent](#orchestration--multi-agent) (6)
-- [🔌 Skills & Plugins](#skills--plugins) (8)
+- [🔌 Skills & Plugins](#skills--plugins) (9)
 - [🧠 Memory & Context](#memory--context) (3)
 - [⚙️ Workflows & Configuration](#workflows--configuration) (5)
 - [🔧 MCP Tools](#mcp-tools) (4)
@@ -34,17 +34,17 @@
 
 ## 📊 Overview
 
-These 200 repositories represent the best of the Claude Code open-source ecosystem.
+These 201 repositories represent the best of the Claude Code open-source ecosystem.
 Rankings are based on GitHub star counts at the time of collection (April 2026).
 The top project alone has **153k stars**, and the list spans a combined **2.5M+** stars.
 
 | Category | Repos |
 |----------|-------|
-| 🏛️ Official & Core | 3 |
+| 🏛️ Official & Core | 5 |
 | 📚 Awesome Lists & Collections | 11 |
 | 🤖 Agent Frameworks & Harnesses | 10 |
 | 🎭 Orchestration & Multi-agent | 6 |
-| 🔌 Skills & Plugins | 8 |
+| 🔌 Skills & Plugins | 9 |
 | 🧠 Memory & Context | 3 |
 | ⚙️ Workflows & Configuration | 5 |
 | 🔧 MCP Tools | 4 |
@@ -180,6 +180,7 @@ Installable skills, plugins, and capability extensions for Claude Code.
 | [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) | 688 ⭐ | Skill Factory — A powerful open-source toolkit for building and deploying production-ready |
 | [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) | 378 ⭐ | BMAD Method skills for |
 | [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) | 301 ⭐ | AEO Automation Framework for |
+| [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills) | 252 ⭐ | HarmonyOS NEXT developer skill for Claude Code, Codex, and other AI coding agents; includes offline ArkTS/ArkUI/API references, DevEco/HDC workflows, emulator diagnostics, and smoke-test templates. |
 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 214 ⭐ | Universal LaTeX document skill for |
 | [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin) | 19 ⭐ | Code plugin that provides a conversational, adaptive, and agentic |
 
