@@ -1,11 +1,11 @@
 # ✨ Awesome Claude Code Skills
 
-> A curated list of the **Top 200** GitHub repositories by ⭐ star count in the Claude Code ecosystem —
+> A curated list of the **Top 201** GitHub repositories by ⭐ star count in the Claude Code ecosystem —
 > covering official tools, agent frameworks, skills, memory systems, MCP servers, proxies, and more.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Last Updated](https://img.shields.io/badge/Updated-April%202026-blue)
-![Repos](https://img.shields.io/badge/Repos-200-brightgreen)
+![Repos](https://img.shields.io/badge/Repos-201-brightgreen)
 ![Stars](https://img.shields.io/badge/Combined%20Stars-2.5M%2B-yellow)
 
 **Language / 语言切换:** &nbsp; **🇺🇸 English** &nbsp;|&nbsp; [🇨🇳 中文](README_CN.md)
@@ -14,7 +14,7 @@
 
 ## 📋 Table of Contents
 
-- [🏛️ Official & Core](#official--core) (3)
+- [🏛️ Official & Core](#official--core) (5)
 - [📚 Awesome Lists & Collections](#awesome-lists--collections) (11)
 - [🤖 Agent Frameworks & Harnesses](#agent-frameworks--harnesses) (10)
 - [🎭 Orchestration & Multi-agent](#orchestration--multi-agent) (6)
@@ -34,13 +34,13 @@
 
 ## 📊 Overview
 
-These 200 repositories represent the best of the Claude Code open-source ecosystem.
+These 201 repositories represent the best of the Claude Code open-source ecosystem.
 Rankings are based on GitHub star counts at the time of collection (April 2026).
 The top project alone has **153k stars**, and the list spans a combined **2.5M+** stars.
 
 | Category | Repos |
 |----------|-------|
-| 🏛️ Official & Core | 3 |
+| 🏛️ Official & Core | 5 |
 | 📚 Awesome Lists & Collections | 11 |
 | 🤖 Agent Frameworks & Harnesses | 10 |
 | 🎭 Orchestration & Multi-agent | 6 |

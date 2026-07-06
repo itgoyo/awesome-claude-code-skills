@@ -1,11 +1,11 @@
 # ✨ Awesome Claude Code Skills
 
-> GitHub 上 Star 数量最多的 **200 个** Claude Code 生态项目精选列表 ——
+> GitHub 上 Star 数量最多的 **201 个** Claude Code 生态项目精选列表 ——
 > 涵盖官方工具、Agent 框架、技能插件、记忆系统、MCP 服务器、代理路由等各类资源。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![更新时间](https://img.shields.io/badge/更新-2026年4月-blue)
-![项目数量](https://img.shields.io/badge/项目数量-200-brightgreen)
+![项目数量](https://img.shields.io/badge/项目数量-201-brightgreen)
 ![累计 Star](https://img.shields.io/badge/累计%20Star-2.5M%2B-yellow)
 
 **语言切换 / Language:** &nbsp; **🇨🇳 中文** &nbsp;|&nbsp; [🇺🇸 English](README.md)
@@ -34,7 +34,7 @@
 
 ## 📊 概览
 
-以下 200 个仓库代表了 Claude Code 开源生态的精华。
+以下 201 个仓库代表了 Claude Code 开源生态的精华。
 排名依据数据采集时（2026 年 4 月）的 GitHub Star 数量。
 榜首项目拥有 **153k Star**，全榜合计超过 **2.5M** Star。
 
