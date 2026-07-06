@@ -18,7 +18,7 @@
 - [📚 精选列表与资源合集](#精选列表与资源合集) (18)
 - [🤖 Agent 框架与运行时](#agent-框架与运行时) (17)
 - [🎭 编排与多智能体](#编排与多智能体) (18)
-- [🔌 技能与插件](#技能与插件) (32)
+- [🔌 技能与插件](#技能与插件) (33)
 - [🧠 记忆与上下文](#记忆与上下文) (8)
 - [⚙️ 工作流与配置](#工作流与配置) (6)
 - [🔧 MCP 工具](#mcp-工具) (7)
@@ -44,7 +44,7 @@
 | 📚 精选列表与资源合集 | 18 |
 | 🤖 Agent 框架与运行时 | 17 |
 | 🎭 编排与多智能体 | 18 |
-| 🔌 技能与插件 | 32 |
+| 🔌 技能与插件 | 33 |
 | 🧠 记忆与上下文 | 8 |
 | ⚙️ 工作流与配置 | 6 |
 | 🔧 MCP 工具 | 7 |
@@ -180,6 +180,7 @@ Claude Code 官方仓库与 Anthropic 维护的核心资源。
 | [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) | 688 ⭐ | Skill Factory — A powerful open-source toolkit for building and deploying production-ready |
 | [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) | 378 ⭐ | BMAD Method skills for |
 | [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) | 301 ⭐ | AEO Automation Framework for |
+| [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills) | 252 ⭐ | 面向 Claude Code、Codex 等 AI 编程助手的 HarmonyOS NEXT 开发者技能包，包含离线 ArkTS/ArkUI/API 参考、DevEco/HDC 工作流、模拟器诊断和 smoke-test 模板。 |
 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 214 ⭐ | Universal LaTeX document skill for |
 | [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin) | 19 ⭐ | Code plugin that provides a conversational, adaptive, and agentic |
 
