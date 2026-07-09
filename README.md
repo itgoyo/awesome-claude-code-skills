@@ -173,6 +173,7 @@ Installable skills, plugins, and capability extensions for Claude Code.
 | [golutra/golutra](https://github.com/golutra/golutra) | 3k ⭐ | Multi-modal Generative Media Skills for AI Agents ( |
 | [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | 3k ⭐ | Multi-modal Generative Media Skills for AI Agents ( |
 | [tw93/Waza](https://github.com/tw93/Waza) | 2.9k ⭐ | 🥷 Engineering habits you already know, turned into skills |
+| [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | 148 ⭐ | Xquik skill for X search, monitoring, exports, webhooks, MCP, and automation workflows |
 | [htdt/godogen](https://github.com/htdt/godogen) | 2.8k ⭐ | skills that build complete Godot 4 projects from a game description |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 2.7k ⭐ | dontbesilent 的商业诊断 Skills for |
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 2.6k ⭐ | Academic Research Skills for |
