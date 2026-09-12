@@ -224,6 +224,7 @@ Model Context Protocol servers, bridges, and integrations.
 | [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | 6.6k ⭐ | TalkToFigma: MCP integration between AI Agent (Cursor, |
 | [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) | 6.4k ⭐ | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea ... |
 | [glitternetwork/pinme](https://github.com/glitternetwork/pinme) | 3.2k ⭐ | Deploy Your Frontend in a Single Command. |
+| [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | 486 ⭐ | MIT-licensed, local-first TypeScript CLI and MCP toolkit for coding agents to compose, edit, generate, and assemble videos from editable `plan.json` timelines. |
 
 ## 🔀 Routing & Proxy
 
