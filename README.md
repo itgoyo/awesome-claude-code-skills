@@ -265,6 +265,7 @@ GUI apps, desktop clients, and web interfaces wrapping Claude Code.
 | [opactorai/Claudable](https://github.com/opactorai/Claudable) | 3.9k ⭐ | Claudable is an open-source web builder that leverages local CLI agents, such as |
 | [tiann/hapi](https://github.com/tiann/hapi) | 3.5k ⭐ | / Codex / Gemini / OpenCode, vibe |
 | [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) | 2.6k ⭐ | statusline tool written in Rust |
+| [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 1911 ⭐ | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. |
 
 ## 🛠️ Developer Tooling
 
