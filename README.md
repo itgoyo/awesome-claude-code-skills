@@ -183,6 +183,8 @@ Installable skills, plugins, and capability extensions for Claude Code.
 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 214 ⭐ | Universal LaTeX document skill for |
 | [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin) | 19 ⭐ | Code plugin that provides a conversational, adaptive, and agentic |
 
+| [ranahaani/i-hate-editing](https://github.com/ranahaani/i-hate-editing) | 11 ⭐ | Claude Code skill: raw talking-head → finished cut via local whisper.cpp + ffmpeg (model never watches pixels) |
+
 ## 🧠 Memory & Context
 
 Systems for persistent memory, context management, and long-running sessions.
