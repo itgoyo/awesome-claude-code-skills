@@ -94,6 +94,7 @@ Curated lists, system prompt leaks, and comprehensive resource collections.
 | [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) | 3.2k ⭐ | 中文指南：Claude Code 与 OpenClaw 完整使用教程 |
 | [cassler/awesome-claude-code-setup](https://github.com/cassler/awesome-claude-code-setup) | 262 ⭐ | the super powers it deserves with this power user collection of bash |
 | [xbim08/awesome-claude-code-plugins](https://github.com/xbim08/awesome-claude-code-plugins) | 9 ⭐ | ⚙️ Explore a curated collection of plugins for |
+| [mblode/agent-skills](https://github.com/mblode/agent-skills) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills` |
 
 ## 🤖 Agent Frameworks & Harnesses
 
