@@ -183,7 +183,6 @@ Installable skills, plugins, and capability extensions for Claude Code.
 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 214 ⭐ | Universal LaTeX document skill for |
 | [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin) | 19 ⭐ | Code plugin that provides a conversational, adaptive, and agentic |
 | [ADWilkinson/usdctofiat-skills](https://github.com/ADWilkinson/usdctofiat-skills) | 0 ⭐ | Cash out Base USDC with `cashout({ mode: "fast" \| "best" })` from `@usdctofiat/offramp` |
-| [galleonlabs/sell-unused-tokens](https://github.com/galleonlabs/sell-unused-tokens) | 0 ⭐ | List leftover LLM API credits on tokensto.cash and cash out USDC |
 
 ## 🧠 Memory & Context
 
