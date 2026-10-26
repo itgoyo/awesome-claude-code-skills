@@ -288,6 +288,7 @@ CLI tools, analyzers, usage monitors, and development utilities.
 | [qdhenry/Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite) | 1.2k ⭐ | that provide structured workflows for software development tasks including |
 | [nyatinte/ccexp](https://github.com/nyatinte/ccexp) | 264 ⭐ | interactive terminal interface for discovering, previewing, and managing |
 | [mylee04/code-notify](https://github.com/mylee04/code-notify) | 182 ⭐ | Cross-platform desktop notifications for |
+| [shenysun/skills-manager](https://github.com/shenysun/skills-manager) | 179 ⭐ | CLI-first agent skill hub: one npx bootstrap, manage in chat, distribute to 70+ agents, resident cost ledger |
 | [jdcodes1/claude-sh](https://github.com/jdcodes1/claude-sh) | 107 ⭐ | rewritten as a bash |
 | [aaddrick/claude-pipeline](https://github.com/aaddrick/claude-pipeline) | 103 ⭐ | multi-agent pipeline - skills, agents, hooks, orchestration |
 | [rlajous/claude-code-commands](https://github.com/rlajous/claude-code-commands) | 27 ⭐ | 🚀 Production-ready slash commands, |
