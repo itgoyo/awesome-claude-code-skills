@@ -131,7 +131,7 @@ Tools for coordinating multiple AI agents and complex workflows.
 | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 8.6k ⭐ | Autonomous AI development loop for |
 | [Doriandarko/maestro](https://github.com/Doriandarko/maestro) | 4.3k ⭐ | Opus to intelligently orchestrate |
 | [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) | 3.7k ⭐ | Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Age... |
-| [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) | 6.2k ⭐ | Agentic orchestrator for parallel |
+| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | 14.2k ⭐ | Agentic orchestrator for parallel |
 | [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) | 4.7k ⭐ | 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治 |
 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 4.3k ⭐ | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
 | [generalaction/emdash](https://github.com/generalaction/emdash) | 3.8k ⭐ | Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple |
