@@ -92,6 +92,7 @@ Curated lists, system prompt leaks, and comprehensive resource collections.
 | [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) | 3.9k ⭐ | Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user! |
 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 3.2k ⭐ | A tremendous feat of documentation, this guide covers |
 | [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) | 3.2k ⭐ | 中文指南：Claude Code 与 OpenClaw 完整使用教程 |
+ | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) | 907 ⭐ | A curated collection of 438+ Claude Code skills for Chinese-language workflows, plus 20 original skills |
 | [cassler/awesome-claude-code-setup](https://github.com/cassler/awesome-claude-code-setup) | 262 ⭐ | the super powers it deserves with this power user collection of bash |
 | [xbim08/awesome-claude-code-plugins](https://github.com/xbim08/awesome-claude-code-plugins) | 9 ⭐ | ⚙️ Explore a curated collection of plugins for |
 
