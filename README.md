@@ -177,6 +177,7 @@ Installable skills, plugins, and capability extensions for Claude Code.
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 2.7k ⭐ | dontbesilent 的商业诊断 Skills for |
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 2.6k ⭐ | Academic Research Skills for |
 | [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) | 1.5k ⭐ | A curated collection of skills for AI |
+| [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) | 763 ⭐ | Open source skills for Claude Code, Cursor and Codex that plan the work first, then verify it with tests and formal checks |
 | [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) | 688 ⭐ | Skill Factory — A powerful open-source toolkit for building and deploying production-ready |
 | [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) | 378 ⭐ | BMAD Method skills for |
 | [alirezarezvani/claude-code-aso-skill](https://github.com/alirezarezvani/claude-code-aso-skill) | 301 ⭐ | AEO Automation Framework for |
